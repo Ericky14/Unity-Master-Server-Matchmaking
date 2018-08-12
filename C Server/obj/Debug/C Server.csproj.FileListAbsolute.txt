@@ -1,0 +1,7 @@
+c:\users\ericky\desktop\documents\visual studio 2015\Projects\C Server\C Server\bin\Debug\C Server.exe.config
+E:\Visual Studio Projects\C Server\C Server\bin\Debug\C Server.exe.config
+E:\Visual Studio Projects\C Server\C Server\bin\Debug\C Server.exe
+E:\Visual Studio Projects\C Server\C Server\bin\Debug\C Server.pdb
+E:\Visual Studio Projects\C Server\C Server\obj\Debug\C Server.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\C Server\C Server\obj\Debug\C Server.exe
+E:\Visual Studio Projects\C Server\C Server\obj\Debug\C Server.pdb

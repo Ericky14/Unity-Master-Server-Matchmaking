@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\C Server\C Client\bin\Debug\C Client.exe.config
+E:\Visual Studio Projects\C Server\C Client\bin\Debug\C Client.exe
+E:\Visual Studio Projects\C Server\C Client\bin\Debug\C Client.pdb
+E:\Visual Studio Projects\C Server\C Client\obj\Debug\C Client.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\C Server\C Client\obj\Debug\C Client.exe
+E:\Visual Studio Projects\C Server\C Client\obj\Debug\C Client.pdb

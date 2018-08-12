@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C Server", "C Server\C Server.csproj", "{0E384EED-172F-4107-BA14-085BE7CA6114}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Bindings", "Bindings\Bindings.shproj", "{9E1C0B64-8F5C-4003-B128-3FC1A1B05881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C Client", "C Client\C Client.csproj", "{25AC2ED6-7E97-4128-98E3-90310DE8A8BA}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Bindings\Bindings.projitems*{25ac2ed6-7e97-4128-98e3-90310de8a8ba}*SharedItemsImports = 4
+		Bindings\Bindings.projitems*{0e384eed-172f-4107-ba14-085be7ca6114}*SharedItemsImports = 4
+		Bindings\Bindings.projitems*{9e1c0b64-8f5c-4003-b128-3fc1a1b05881}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E384EED-172F-4107-BA14-085BE7CA6114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E384EED-172F-4107-BA14-085BE7CA6114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E384EED-172F-4107-BA14-085BE7CA6114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E384EED-172F-4107-BA14-085BE7CA6114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25AC2ED6-7E97-4128-98E3-90310DE8A8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25AC2ED6-7E97-4128-98E3-90310DE8A8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25AC2ED6-7E97-4128-98E3-90310DE8A8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25AC2ED6-7E97-4128-98E3-90310DE8A8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
