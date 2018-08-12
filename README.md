@@ -1,6 +1,7 @@
 # Unity-Master-Server-Matchmaking
 
 Please write all changes on changelog.
+Ignore the "C Client" folder. It does not do anything important. It was mainly for testing purposes.
 
 #### Usage
 To use this, just open it up with an IDE like Visual Studios and click start.
